@@ -1,7 +1,11 @@
 ![Banner](/images/LinkedIn_banner1.jpg "Banner")
 
-## Hi there 👋
-
+## About me
+- 🔍 I'm looking for Junior Software Developer roles
+- 💼 I'm currently working as a freelance IT Implementation Consultant
+- 🌱 I’m currently learning: Java & C++
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liamohara/)
+---
 <!--
 **liam-ohara/liam-ohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
