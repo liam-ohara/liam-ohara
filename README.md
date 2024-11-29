@@ -1,3 +1,5 @@
+![Banner](/images/LinkedIn_banner1.jpg "Banner")
+
 ## Hi there 👋
 
 <!--
