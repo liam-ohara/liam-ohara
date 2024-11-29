@@ -4,7 +4,7 @@
 - 🔍 I'm looking for Junior Software Developer roles
 - 💼 I'm currently working as a freelance IT Implementation Consultant
 - 🌱 I’m currently learning: Java & C++
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liamohara/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liamohara/)
 ---
 <!--
 **liam-ohara/liam-ohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
