@@ -8,6 +8,10 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liam-ohara&layout=compact)
 
+---
+## Courses completed
+- [Java Software Development, Northcoders](https://northcoders.com/our-courses/skills-bootcamp-in-java-software-development)
+- [C++ for Beginners, Coddy](https://coddy.tech/courses/cpp_for_beginners)
 
 <!--
 **liam-ohara/liam-ohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
