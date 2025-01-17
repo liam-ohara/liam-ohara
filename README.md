@@ -13,6 +13,7 @@
 - [Java Software Development, Northcoders](https://northcoders.com/our-courses/skills-bootcamp-in-java-software-development)
 - [C++ for Beginners, Coddy](https://coddy.tech/courses/cpp_for_beginners)
 - [C/C++ Structures, Coddy](https://coddy.tech/courses/ccpp_structures)
+- [C++ - Standard Template Library, Coddy](https://coddy.tech/courses/cpp__standard_template_library)
 
 <!--
 **liam-ohara/liam-ohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
