@@ -14,6 +14,7 @@
 - [C++ for Beginners, Coddy](https://coddy.tech/courses/cpp_for_beginners)
 - [C/C++ Structures, Coddy](https://coddy.tech/courses/ccpp_structures)
 - [C++ - Standard Template Library, Coddy](https://coddy.tech/courses/cpp__standard_template_library)
+- [30 Days of Logic Building in C++](https://coddy.tech/courses/30_days_of_logic_building_in_cpp)
 
 <!--
 **liam-ohara/liam-ohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
