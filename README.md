@@ -1,7 +1,7 @@
 ![Banner](/images/LinkedIn_banner1.jpg "Banner")
 
 ## About me
-- 🔍 I'm looking for Junior Software Developer roles
+<!-- - 🔍 I'm looking for Junior Software Developer roles -->
 - 💼 I'm currently working as a freelance IT Implementation Consultant
 - 🌱 I’m currently learning: Java & C++
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liamohara/)
