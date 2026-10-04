@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Java & C++
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liamohara/)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liam-ohara&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liam-ohara&layout=compact&exclude_repo=apricot-bioses)
 
 ---
 ## Courses completed
